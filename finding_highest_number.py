@@ -15,3 +15,10 @@
 
     #RETURN highest
 #END FUNCTION
+
+def find_highest_number(num1, num2, num3, num4, num5):
+    
+    if num2 > num1:
+        highest = num2
+    else:
+        highest = num1
