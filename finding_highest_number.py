@@ -39,3 +39,7 @@ num2 = int(input("Enter the second number: "))
 num3 = int(input("Enter the third number: "))
 num4 = int(input("Enter the fourth number: "))
 num5 = int(input("Enter the fifth number: "))
+
+highest = find_highest_number(num1, num2, num3, num4, num5)
+
+print("The highest number is:", highest)
