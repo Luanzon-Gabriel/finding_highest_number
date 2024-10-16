@@ -26,3 +26,6 @@ def find_highest_number(num1, num2, num3, num4, num5):
     if num3 > highest:
         highest = num3
 
+    if num4 > highest:
+        highest = num4
+ 
